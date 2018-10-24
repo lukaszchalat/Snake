@@ -1,0 +1,10 @@
+1 Lukasz 280
+2 Lukasz 200
+3 Lukasz 150
+4 Misiur 150
+5 Misiaczek 140
+6 Misiek 130
+7 Agnieszka 120
+8 Monika 110
+9 Tomek 100
+10 Marcin 90
